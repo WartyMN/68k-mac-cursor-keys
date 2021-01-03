@@ -28,6 +28,14 @@ You have a Mac Plus keyboard, Apple Desktop Bus Keyboard ("IIGS"), M0116 (II/SE 
 ## How to use it:
 - Engage caps lock key, and use [, ], \, and = as cursor keys. All other keys will operate as normal (non-capitalized) keys.
 
+## How to temporarily disable it
+- Hold down the mouse button on startup to disable it until the next reboot. 
+
+## How to uninstall it
+1. Open your System Folder
+2. Drag the "CapsLock Cursors" system extension file out of the System Folder
+3. Restart your mac
+
 ## Does it have a Control Panel?
 No. Nothing is configurable, in the interest of keeping size to a minimum.
 
