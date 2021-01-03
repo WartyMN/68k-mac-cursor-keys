@@ -2,7 +2,7 @@
 This is a system extension (INIT) for Mac System 6.x through 9.x that adds alternate key layout when capslock is engaged.
 
 ## What this system extension (INIT) does
-When caps lock is down, turns [{ key into left cursor, \| key into right cursor, =+ key into up cursor, ]} key into down cursor. As of version 0.2.0, it essentially disables CapsLock from capitalizing alphabet characters. This allows the user to leave CapsLock on all the time, only turning it off when a [, ], \ or = key press is needed. 
+When caps lock is down, turns [{ key into left cursor, \\| key into right cursor, =+ key into up cursor, ]} key into down cursor. As of version 0.2.0, it essentially disables CapsLock from capitalizing alphabet characters. This allows the user to leave CapsLock on all the time, only turning it off when a [, ], \ or = key press is needed. 
 
 ```
        +------+
@@ -20,13 +20,13 @@ When caps lock is down, turns [{ key into left cursor, \| key into right cursor,
 You have an original 128/512 Mac keyboard and wish it had cursor keys
 You have a Mac Plus keyboard, Apple Desktop Bus Keyboard ("IIGS"), M0116 (II/SE "standard keyboard"), or Apple Keyboard II and wished you had cursor keys in an inverted T arrangement
 
-## How to install this:
+## How to install it
 1. Get it onto your Mac somehow
 2. Expand the .SIT file
 3. Drop the INIT/extension on your system folder. For System 7+, the Mac will further drop it into your System Extensions folder
 
-## How to use it:
-- Engage caps lock key, and use [, ], \, and = as cursor keys. All other keys will operate as normal (non-capitalized) keys.
+## How to use it
+- Engage caps lock key, and use [, ], \\, and = as cursor keys. All other keys will operate as normal (non-capitalized) keys.
 
 ## How to temporarily disable it
 - Hold down the mouse button on startup to disable it until the next reboot. 
